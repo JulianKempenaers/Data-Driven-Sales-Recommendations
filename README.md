@@ -13,7 +13,7 @@
 - data cleaning
 
 ### :bookmark_tabs: Full Report
-The full Sales Effectiveness Analysis **report can be found** [**here**](notebook.ipynb)
+[The full Sales Effectiveness Analysis **report can be found here**](notebook.ipynb)
 
 ### :memo: Key findings:
 ><img src="/Figures/New_metric_explanation.png" alt="New metric for measuring sales method efficacy" width="700" />
