@@ -16,8 +16,10 @@
 [The full Sales Effectiveness Analysis **report can be found here**](notebook.ipynb)
 
 ### :memo: Key findings:
-><img src="/Figures/New_metric_explanation.png" alt="New metric for measuring sales method efficacy" width="1000" />
+><img src="/Figures/fig1.png" alt="New metric for measuring sales method efficacy" width="900" />
 
-><img src="/Figures/Key_findings.png" alt="Key findings" width="1000" />
+><img src="/Figures/fig2.png" alt="Key findings" width="900" />
 
-><img src="/Figures/business_recommendations.png" alt="Business Recommendations" width="1000" />
+><img src="/Figures/fig3.png" alt="Business Recommendations" width="900" />
+
+><img src="/Figures/fig4.png" alt="Business Recommendations" width="900" />
