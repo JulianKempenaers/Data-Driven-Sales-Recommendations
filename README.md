@@ -13,8 +13,9 @@ Develop and model a new metric to evaluate the effectiveness of three sales stra
 
 ---
 ### :bookmark_tabs: Dashboard in **Tableau**
-[The interactive dashboard can be accessed here](https://public.tableau.com/shared/C5Q7BMRJK?:display_count=n&:origin=viz_share_link) <br>
-<img width="700" alt="Dashboard 2" src="https://github.com/user-attachments/assets/059aa4bb-6af4-40db-b0ad-03be492c2d2a" />
+[Click to view the **interactive dashboard**](https://public.tableau.com/shared/C5Q7BMRJK?:display_count=n&:origin=viz_share_link) <br>
+[<img width="700" alt="Dashboard 2" src="https://github.com/user-attachments/assets/966836de-93a0-4027-82da-39ecf376aa1a" />](https://public.tableau.com/shared/C5Q7BMRJK?:display_count=n&:origin=viz_share_link)
+
 
 ## :memo: Key findings
 The three sales strategies that were analysed: 
