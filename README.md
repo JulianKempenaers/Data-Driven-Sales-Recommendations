@@ -14,7 +14,7 @@ Develop and model a new metric to evaluate the effectiveness of three sales stra
 ---
 ### :bookmark_tabs: Dashboard in **Tableau**
 [Click to view the **interactive dashboard**](https://public.tableau.com/shared/C5Q7BMRJK?:display_count=n&:origin=viz_share_link) <br>
-[<img width="700" alt="Dashboard 2" src="https://github.com/user-attachments/assets/966836de-93a0-4027-82da-39ecf376aa1a" />](https://public.tableau.com/shared/C5Q7BMRJK?:display_count=n&:origin=viz_share_link)
+[<img width="700" alt="Dashboard 2 (1)" src="https://github.com/user-attachments/assets/9df52ea7-901d-4af7-85bd-a7793bdb536e" />](https://public.tableau.com/shared/C5Q7BMRJK?:display_count=n&:origin=viz_share_link)
 
 
 ## :memo: Key findings
