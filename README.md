@@ -4,13 +4,17 @@
 Develop and model a new metric to evaluate the effectiveness of three sales strategies.
 
 ### :hammer_and_wrench: Tools & Skills
-- R (data analysis, statistics, visualisation, cleaning)
+- **R** (data analysis, statistics, visualisation, cleaning)
 - Jupyter lab for interactive report generation
+- **Tableau** for **Dashboard** Creation
 
 ### :bookmark_tabs: Full Report
 [The full Sales Effectiveness Analysis **report can be found here**](notebook.ipynb)
 
 ---
+### :bookmark_tabs: Dashboard in **Tableau**
+[The interactive dashboard can be accessed here](https://public.tableau.com/shared/C5Q7BMRJK?:display_count=n&:origin=viz_share_link) <br>
+<img width="700" alt="Dashboard 2" src="https://github.com/user-attachments/assets/059aa4bb-6af4-40db-b0ad-03be492c2d2a" />
 
 ## :memo: Key findings
 The three sales strategies that were analysed: 
